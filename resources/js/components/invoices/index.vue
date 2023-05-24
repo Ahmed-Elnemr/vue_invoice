@@ -1,8 +1,7 @@
 <template>
-    <div >
-        <!-- <h1>vue</h1> -->
+    <div>
+        <h1>index</h1>
     </div>
-    <router-view></router-view>
 </template>
 
 <!-- <script>
